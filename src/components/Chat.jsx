@@ -30,7 +30,6 @@ export default function Chat() {
     useEffect(() => {
         socket?.on('updateUsers', message => {
             const users = message.filter(user => user !== name)
-            console.log(users, name)
             setUsers(users)
         });
     }, [name, socket])
