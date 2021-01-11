@@ -16,7 +16,7 @@ export default function Chat() {
 
     useEffect(() => {
 
-        const socket = socketIo('http://localhost:3001', {
+        const socket = socketIo('https://rafael-portfolio-chatjs.herokuapp.com/', {
             transports: ['websocket'],
         });
 
