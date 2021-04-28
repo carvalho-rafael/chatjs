@@ -7,11 +7,7 @@
         "sizes": "192x192"
       }
     ],
-<<<<<<< HEAD
     "start_url": "https://rafael-portfolio-chatjs.netlify.app/",
-=======
-    "start_url": "/",
->>>>>>> 837a64bec367eb65add1f3a8bfad776dbdeeefc5
     "display": "standalone",
     "theme_color": "#D9AE94",
     "background_color": "#ffffff"
