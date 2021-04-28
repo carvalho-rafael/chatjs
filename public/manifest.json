@@ -1,16 +1,15 @@
 {
-    "name": "Chatjs",
-    "short_name": "ChatJS",
-    "icons": [
-      {
-        "src": "favicon.png",
-        "type": "image/png",
-        "sizes": "192x192"
-      }
-    ],
-    "start_url": "/index.html",
-    "display": "standalone",
-    "theme_color": "#D9AE94",
-    "background_color": "#ffffff"
-  }
-  
+  "name": "Chatjs",
+  "short_name": "ChatJS",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#D9AE94",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ]
+}
