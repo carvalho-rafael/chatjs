@@ -9,5 +9,5 @@ Try it: https://rafael-portfolio-chatjs.netlify.app/
 
 ## Screenshots
 
-<img src="./assets/welcome.png" alt="chat-home" width="600px"/>
-<img src="./assets/chat.png" alt="chat-home" width="600px"/>
+<img src="./docs/welcome.png" alt="chat-home" width="600px"/>
+<img src="./docs/chat.png" alt="chat-home" width="600px"/>
