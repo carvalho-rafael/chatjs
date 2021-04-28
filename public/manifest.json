@@ -1,7 +1,7 @@
 {
   "name": "Chatjs",
   "short_name": "ChatJS",
-  "start_url": "/",
+  "start_url": ".",
   "display": "standalone",
   "theme_color": "#D9AE94",
   "background_color": "#ffffff",

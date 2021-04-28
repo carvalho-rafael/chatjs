@@ -73,7 +73,7 @@ export default function Chat() {
                     <input
                         onChange={(value) => setName(value.target.value)}
                         type="text"
-                        class="input-text"
+                        className="input-text"
                         ref={sendNameInput}
                     />
                     <button type="submit">Enter</button>
@@ -96,7 +96,7 @@ export default function Chat() {
                         <input
                             onChange={(value) => setMessage(value.target.value)}
                             type="text"
-                            class="input-text"
+                            className="input-text"
                             ref={sendMessageInput}
                             required
                         />
