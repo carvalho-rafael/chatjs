@@ -1,11 +1,9 @@
+/* eslint-disable no-restricted-globals */
 var CACHE_NAME = 'chatjs-app';
 
 var urlsToCache = [
     '/',
-    '/static/js/bundle.js',
-    '/static/js/main.chunk.js',
-    '/static/js/1.chunk.js',
-    '/static/js/0.chunk.js',
+    '/static/js/',
     '/favicon.png',
     '/css?family=Abel+Regular',
 ];
