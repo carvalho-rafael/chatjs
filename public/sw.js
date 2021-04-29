@@ -3,9 +3,6 @@ var CACHE_NAME = 'chatjs-app';
 
 var urlsToCache = [
     '/',
-    '/static/js/',
-    '/favicon.png',
-    '/css?family=Abel+Regular',
 ];
 
 self.addEventListener('install', function (event) {
